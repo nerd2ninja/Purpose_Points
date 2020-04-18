@@ -2,7 +2,7 @@ require 'sinatra'
 require 'colorize'
 
 BALANCES = {
-  'haseeb' => 100_000,
+  'placeholder' => 100_000,
 }
 
 def print_state
